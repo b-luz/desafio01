@@ -4,6 +4,8 @@ Imagine o seguinte cenário: Você é um desenvolvedor em uma empresa de e-comme
 
 OBS: O checkout é a parte do sistema que computa os produtos adicionados a um carrinho de compras e retorna o preço.
 
+* Tanto a lista de produto quanto a lista de cupons podem ser implementados em memória.
+
 ## Requisitos encontrados no backlog
 
 - É preciso que um novo sistema seja desenvolvido de forma ele possa ser consumido na forma de uma API REST pelos outros módulos da empresa.
