@@ -6,17 +6,19 @@ Se você chegou até aqui, significa que está avançado no processo seletivo t�
 
 Essa é a última etapa do processo seletivo, o code challange 🥋. Todas as instruções de entrega e requisitos do desafia estão descritos abaixo, portanto, **leia com atenção**.
 
-# Instruções para execução e entrega
+## Instruções para execução e entrega
 
 - 🗓️ Prazo: 3 dias de quando foi passado o teste;
 - 📄 Desenvolvimento: crie um repositório público no seu github e desenvolva o projeto nele (em qualquer linguagem ou framework);
 - ✅ Entrega: mande o link do repositório do projeto para gabriel.lopes@baptistaluz.com.br com seu nome completo;
 
-# Critérios de avaliação 
+## Critérios de avaliação 
 
 Nesse desafio serão avaliados: seu senso crítico e habilidade de resolução de probelemas, organização e qualidade de código.
 
 🔴 Não tem problema se não você não conseguir finalizar à tempo, o importante é que seja enviado o projeto com a lógica da aplicação.
+
+---
 
 # Problema
 
