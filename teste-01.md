@@ -2,7 +2,7 @@
 
 Olá, dev! 
 
-Se você chegou até significa que está avançado no processo seletivo técnico do Bluz. E por isso, meus parabéns! 🥳
+Se você chegou até aqui, significa que está avançado no processo seletivo técnico do Bluz. E por isso, nossos sinceros parabéns! 🥳
 
 Essa é a última etapa do processo seletivo, o code challange 🥋. Todas as instruções de entrega e requisitos do desafia estão descritos abaixo, portanto, **leia com atenção**.
 
