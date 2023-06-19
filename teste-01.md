@@ -12,6 +12,12 @@ Essa é a última etapa do processo seletivo, o code challange 🥋. Todas as in
 - 📄 Desenvolvimento: crie um repositório público no seu github e desenvolva o projeto nele (em qualquer linguagem ou framework);
 - ✅ Entrega: mande o link do repositório do projeto para gabriel.lopes@baptistaluz.com.br com seu nome completo;
 
+# Critérios de avaliação 
+
+Não tem problema se não você não conseguir finalizar à tempo, o importante é que seja enviado o projeto com a lógica da aplicação.
+
+Nesse desafio, serão avaliados: seu senso crítico e habilidade de resolução de probelemas, organização e qualidade de código.
+
 # Problema
 
 Imagine o seguinte cenário: Você é um desenvolvedor em uma empresa de e-commerce que entrega seus serviços através de um monolíto. Porém, o módulo de checkout da empresa está recebendo muitos acessos e o sistema não consegue dar conta da demanda. Por conta disso, chega uma tarefa no seu backlog com a descrição abaixo.
