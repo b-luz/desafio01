@@ -10,7 +10,7 @@ Tanto a lista de produto quanto a lista de cupons podem ser implementados em mem
 
 - É preciso que um novo sistema seja desenvolvido de forma ele possa ser consumido na forma de uma API REST pelos outros módulos da empresa.
 - Esse novo sistema precisa aceitar como input - uma lista com o id dos [produtos](#produtos), o cpf do cliente e um [cupom](#cupom) se existir.
-- Ao realizar o checkout o sistema deveretornar o valor da compra que será efetuada aplicando o cupom e o valor do frete.
+- Ao realizar o checkout o sistema deve retornar o valor da compra que será efetuada aplicando o cupom e o valor do frete.
 - Um cupom deve ser aplicado somente se existir e estiver dentro da data de validade. Caso contrário deve ser ignorado.
 - O frete deve ser calculado usando a fórmula: Frete = peso * 0.1.
 - O checkout não pode ser efetuado caso o cpf do cliente seja inválido.
