@@ -16,7 +16,7 @@ Essa é a última etapa do processo seletivo, o code challange 🥋. Todas as in
 
 Não tem problema se não você não conseguir finalizar à tempo, o importante é que seja enviado o projeto com a lógica da aplicação.
 
-Nesse desafio, serão avaliados: seu senso crítico e habilidade de resolução de probelemas, organização e qualidade de código.
+Nesse desafio serão avaliados: seu senso crítico e habilidade de resolução de probelemas, organização e qualidade de código.
 
 # Problema
 
