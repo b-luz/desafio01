@@ -1,5 +1,19 @@
 # Teste 1 - Checkout
 
+Olá, dev! 
+
+Se você chegou até significa que está avançado no processo seletivo técnico do Bluz. E por isso, meus parabéns! 🥳
+
+Essa é a última etapa do processo seletivo, o code challange 🥋. Todas as instruções de entrega e requisitos do desafia estão descritos abaixo, portanto, **leia com atenção**.
+
+# Instruções para execução e entrega
+
+- 🗓️ Prazo: 3 dias de quando foi passado o teste;
+- 📄 Desenvolvimento: crie um repositório público no seu github e desenvolva o projeto nele (em qualquer linguagem ou framework);
+- ✅ Entrega: mande o link do repositório do projeto para gabriel.lopes@baptistaluz.com.br com seu nome completo;
+
+# Problema
+
 Imagine o seguinte cenário: Você é um desenvolvedor em uma empresa de e-commerce que entrega seus serviços através de um monolíto. Porém, o módulo de checkout da empresa está recebendo muitos acessos e o sistema não consegue dar conta da demanda. Por conta disso, chega uma tarefa no seu backlog com a descrição abaixo.
 
 OBS: O checkout é a parte do sistema que computa os produtos adicionados a um carrinho de compras e retorna o preço.
